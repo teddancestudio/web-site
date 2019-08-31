@@ -10,18 +10,30 @@
     },
     "items": [
         {
+            "id": "https://teddancestudio.github.io/web-site/faq.html",
+            "url": "https://teddancestudio.github.io/web-site/faq.html",
+            "title": "Frequently Asked Questions",
+            "author": {
+                "name": "Kirana S. Shvetsova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-31T10:48:55+07:00",
+            "date_modified": "2019-08-31T10:51:06+07:00"
+        },
+        {
             "id": "https://teddancestudio.github.io/web-site/location.html",
             "url": "https://teddancestudio.github.io/web-site/location.html",
             "title": "Location",
-            "summary": "460 Main St. Winnipeg, MB R3B 1B6 (corner Main St. &amp; McDermot&hellip;",
-            "content_html": "<p class=\"msg msg--info align-center\">460 Main St.<br>Winnipeg, MB R3B 1B6<br>(corner Main St. &amp; McDermot Ave., one block north from the Portage and Main intersection, entrance from the parking lot)</p>\n<p class=\"align-center msg msg--highlight  msg--info\"><iframe width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2570.0702043608558!2d-97.14153568448464!3d49.89748527940289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52ea715c87fa67ef%3A0x9d3e84821696c74a!2sTed%20Motyka%20Dance%20Studio!5e0!3m2!1sen!2sid!4v1567220903939!5m2!1sen!2sid\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p class=\"align-center msg msg--info\">Call: 989-0704 or 633-2530<br>E-mail: <a href=\"mailto:teddancestudio@gmail.com\">teddancestudio@gmail.com</a></p>",
+            "summary": "How to reach us460 Main St. Winnipeg, MB R3B 1B6 (corner Main&hellip;",
+            "content_html": "<h2 id=\"mcetoc_1djirshlm0\" class=\"align-center\">How to reach us</h2>\n<p class=\"msg msg--info align-center\">460 Main St.<br>Winnipeg, MB R3B 1B6<br>(corner Main St. &amp; McDermot Ave., one block north from the Portage and Main intersection, entrance from the parking lot)</p>\n<p class=\"align-center msg msg--info\">Call: 989-0704 or 633-2530<br>E-mail: <a href=\"mailto:teddancestudio@gmail.com\">teddancestudio@gmail.com</a></p>\n<h2 id=\"mcetoc_1djiru4kh1\" class=\"align-center\">Map</h2>\n<div class=\"align-center\"><iframe width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2570.0702043608558!2d-97.14153568448464!3d49.89748527940289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52ea715c87fa67ef%3A0x9d3e84821696c74a!2sTed%20Motyka%20Dance%20Studio!5e0!3m2!1sen!2sid!4v1567220903939!5m2!1sen!2sid\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "Kirana S. Shvetsova"
             },
             "tags": [
             ],
             "date_published": "2019-08-31T10:06:47+07:00",
-            "date_modified": "2019-08-31T10:32:27+07:00"
+            "date_modified": "2019-08-31T10:42:34+07:00"
         }
     ]
 }

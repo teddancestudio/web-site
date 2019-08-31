@@ -3,12 +3,24 @@
     <title>Ted Motyka Dance Studio</title>
     <link href="https://teddancestudio.github.io/web-site/feed.xml" rel="self" />
     <link href="https://teddancestudio.github.io/web-site" />
-    <updated>2019-08-31T10:33:09+07:00</updated>
+    <updated>2019-08-31T10:52:25+07:00</updated>
     <author>
         <name>Kirana S. Shvetsova</name>
     </author>
     <id>https://teddancestudio.github.io/web-site</id>
 
+    <entry>
+        <title>Frequently Asked Questions</title>
+        <author>
+            <name>Kirana S. Shvetsova</name>
+        </author>
+        <link href="https://teddancestudio.github.io/web-site/faq.html"/>
+        <id>https://teddancestudio.github.io/web-site/faq.html</id>
+
+        <updated>2019-08-31T10:51:06+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Location</title>
         <author>
@@ -17,17 +29,19 @@
         <link href="https://teddancestudio.github.io/web-site/location.html"/>
         <id>https://teddancestudio.github.io/web-site/location.html</id>
 
-        <updated>2019-08-31T10:32:27+07:00</updated>
+        <updated>2019-08-31T10:42:34+07:00</updated>
             <summary>
                 <![CDATA[
-                    460 Main St. Winnipeg, MB R3B 1B6 (corner Main St. &amp; McDermot&hellip;
+                    How to reach us460 Main St. Winnipeg, MB R3B 1B6 (corner Main&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--info align-center">460 Main St.<br>Winnipeg, MB R3B 1B6<br>(corner Main St. &amp; McDermot Ave., one block north from the Portage and Main intersection, entrance from the parking lot)</p>
-<p class="align-center msg msg--highlight  msg--info"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2570.0702043608558!2d-97.14153568448464!3d49.89748527940289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52ea715c87fa67ef%3A0x9d3e84821696c74a!2sTed%20Motyka%20Dance%20Studio!5e0!3m2!1sen!2sid!4v1567220903939!5m2!1sen!2sid" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+                <h2 id="mcetoc_1djirshlm0" class="align-center">How to reach us</h2>
+<p class="msg msg--info align-center">460 Main St.<br>Winnipeg, MB R3B 1B6<br>(corner Main St. &amp; McDermot Ave., one block north from the Portage and Main intersection, entrance from the parking lot)</p>
 <p class="align-center msg msg--info">Call: 989-0704 or 633-2530<br>E-mail: <a href="mailto:teddancestudio@gmail.com">teddancestudio@gmail.com</a></p>
+<h2 id="mcetoc_1djiru4kh1" class="align-center">Map</h2>
+<div class="align-center"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2570.0702043608558!2d-97.14153568448464!3d49.89748527940289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52ea715c87fa67ef%3A0x9d3e84821696c74a!2sTed%20Motyka%20Dance%20Studio!5e0!3m2!1sen!2sid!4v1567220903939!5m2!1sen!2sid" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
