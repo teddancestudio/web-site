@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Ted Motyka Dance Studio</title>
-    <link href="https://teddancestudio.github.io/feed.xml" rel="self" />
-    <link href="https://teddancestudio.github.io" />
-    <updated>2019-08-31T10:26:13+07:00</updated>
+    <link href="https://teddancestudio.github.io/web-site/feed.xml" rel="self" />
+    <link href="https://teddancestudio.github.io/web-site" />
+    <updated>2019-08-31T10:29:45+07:00</updated>
     <author>
         <name>Kirana S. Shvetsova</name>
     </author>
-    <id>https://teddancestudio.github.io</id>
+    <id>https://teddancestudio.github.io/web-site</id>
 
     <entry>
         <title>Location</title>
         <author>
             <name>Kirana S. Shvetsova</name>
         </author>
-        <link href="https://teddancestudio.github.io/location.html"/>
-        <id>https://teddancestudio.github.io/location.html</id>
+        <link href="https://teddancestudio.github.io/web-site/location.html"/>
+        <id>https://teddancestudio.github.io/web-site/location.html</id>
 
         <updated>2019-08-31T10:14:24+07:00</updated>
             <summary>
