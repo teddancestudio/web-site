@@ -1858,6 +1858,21 @@ textarea {
 .pswp--light .pswp__caption__center {
   color: #17181E; }
 
+        html {
+          font-size: 1rem;
+        }
+
+        @media screen and (min-width: 20rem) {
+          html {
+               font-size: calc(1rem + (1.1 - 1) * ((100vw - 20rem) / 50));
+            }
+        }
+
+        @media screen and (min-width: 70rem) {
+          html {
+               font-size: 1.1rem;
+            }
+        }
         .cookie-popup,
         .cookie-popup__save {
                background: #D73A42;      
